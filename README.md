@@ -1,7 +1,7 @@
 
 # Status
 
-WORK IN PROGRESS ...
+WORK IN PROGRESS .../
 
 ## Client
 
