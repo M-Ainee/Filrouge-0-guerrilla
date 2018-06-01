@@ -40,13 +40,10 @@ Here is the resultat from Lighthouse Test:
    <img src ='assets/images/test.png'>
 </div>
 
-
-
-
 Special thanks:
 
 * [Pedro](https://github.com/pedroseromenho) (For the screenshots idea)
-* [Samuel](https://github.com/SammuelJ?tab=repositories) (Clarifying how to use templates and to extract them).
+* [Sammuel](https://github.com/SammuelJ?tab=repositories) (Clarifying how to use templates and to extract them).
 
 
 
