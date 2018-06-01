@@ -23,10 +23,10 @@ All instrutions to this projects are
 
 ## What i learned
 
-Still to come ...
+Still to come ...=
 
 ## Problem encouted
 
 Still to come ...
 
-# Check the [Client's project](https://marianeniwe.github.io/Filrouge-0-guerrilla/.) 
+# Check the [Client's project](https://marianeniwe.github.io/Filrouge-0-guerrilla/.)
